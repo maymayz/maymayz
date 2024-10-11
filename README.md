@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Alvin Bradley Nonis, a final year Software Engineering student in University Malaya.
+
+In this course, I expect to learn about software maintenance practices that are used in the industry.
+
 <!--
 **maymayz/maymayz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
